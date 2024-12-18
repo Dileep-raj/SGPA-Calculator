@@ -1,0 +1,139 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+body {
+    background-color: white;
+    font-size: 12pt;
+}
+
+select {
+    background-color: inherit !important;
+    color: inherit !important;
+}
+
+#subtable {
+    border: grey solid 2pt;
+    border-radius: 5pt !important;
+}
+
+#subtable tr,
+#subtable th {
+    min-width: 100px;
+}
+
+.tableheading {
+    font-size: 14pt;
+    color: #15c06a;
+    border-bottom: grey solid 1pt;
+}
+
+input.marks,
+input#noofsubjects,
+input {
+    padding: 3px 5px;
+    margin: 5px;
+    border: rgba(62, 62, 62, 0.5) solid 2px;
+    border-radius: 5px;
+    background-color: inherit !important;
+    min-width: 100px;
+    width: 150px;
+    align-self: center;
+    color: inherit !important;
+}
+
+.fields {
+    text-align: center;
+    font-size: 12pt;
+    height: 5vh;
+    border-bottom: grey solid 0.5pt;
+}
+
+#toggleButton {
+    position: fixed;
+    top: 0;
+    right: 0;
+    border: solid 2pt;
+    border-radius: 50px;
+    background-color: inherit;
+    color: inherit;
+}
+
+#toggleButton:hover {
+    border-color: #061316;
+    background-color: #061316;
+    color: #D9E4E8;
+}
+
+#toggleButton.dark:hover {
+    color: #061316;
+    background-color: #50C5D4;
+    border-color: #50C5D4;
+}
+
+.dark {
+    background-color: #061316;
+    color: #50C5D4;
+}
+
+#infoicon {
+    aspect-ratio: 1;
+    line-height: 0px;
+    font-weight: 800;
+    font-size: 1.5rem;
+    max-height: 1rem;
+}
+
+#infoblock {
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    margin: 1rem;
+}
+
+#info {
+    display: none;
+    position: absolute;
+    left: 2.5rem;
+    border: rgba(128, 128, 128, 0.5) solid 1pt;
+    border-radius: 5px;
+    background-color: inherit !important;
+    padding: 10px;
+    margin: 0px 5px;
+    color: inherit !important;
+}
+
+#result {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+#sgpa {
+    position: -webkit-sticky;
+    position: sticky;
+    /* position: fixed; */
+    bottom: 0;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgb(70, 70, 70);
+    color: mediumturquoise;
+}
+
+#infoicon:focus+#info,
+#infoicon:hover+#info,
+#infoblock:hover+#info {
+    display: inline-block;
+}
+
+#cgpa-per {
+    font-size: 13pt;
+    margin: 20px 10px;
+}

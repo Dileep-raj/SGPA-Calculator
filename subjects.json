@@ -1,0 +1,363 @@
+{
+    "phy": [
+        [
+            "Physics",
+            3,
+            true
+        ],
+        [
+            "Electrical",
+            3,
+            true
+        ],
+        [
+            "Civil",
+            3,
+            true
+        ],
+        [
+            "Math",
+            3,
+            true
+        ],
+        [
+            "Engineering Graphics",
+            3,
+            true
+        ],
+        [
+            "English",
+            1,
+            true
+        ],
+        [
+            "Electrical Lab",
+            1,
+            true
+        ],
+        [
+            "Physics Lab",
+            1,
+            true
+        ],
+        [
+            "Design Thinking and Innovation",
+            1,
+            false
+        ],
+        [
+            "Ability Enhancement Course",
+            1,
+            false
+        ]
+    ],
+    "chem": [
+        [
+            "C Programming",
+            4,
+            true
+        ],
+        [
+            "Chemistry",
+            3,
+            true
+        ],
+        [
+            "Electronics",
+            3,
+            true
+        ],
+        [
+            "Mechanical",
+            3,
+            true
+        ],
+        [
+            "Math",
+            3,
+            true
+        ],
+        [
+            "Indian Knowledge System",
+            1,
+            true
+        ],
+        [
+            "English",
+            1,
+            true
+        ],
+        [
+            "Chemistry Lab",
+            1,
+            true
+        ],
+        [
+            "Ability Enhancement Course",
+            1,
+            false
+        ]
+    ],
+    "ise3": [
+        [
+            "Math",
+            4,
+            true
+        ],
+        [
+            "Data Structures",
+            3,
+            true
+        ],
+        [
+            "Computer System Design",
+            3,
+            true
+        ],
+        [
+            "Discrete Mathematical Structures",
+            3,
+            true
+        ],
+        [
+            "Internship",
+            2,
+            false
+        ],
+        [
+            "Constitution",
+            1,
+            true
+        ],
+        [
+            "Universal Human Values",
+            1,
+            true
+        ],
+        [
+            "Data Structures Lab",
+            1,
+            true
+        ],
+        [
+            "Web Technology Lab",
+            1,
+            true
+        ],
+        [
+            "Computer System Design Lab",
+            1,
+            true
+        ]
+    ],
+    "ise4": [
+        [
+            "Math",
+            4,
+            true
+        ],
+        [
+            "Design Analysis of Algorithms",
+            3,
+            true
+        ],
+        [
+            "Software Engineering",
+            3,
+            true
+        ],
+        [
+            "Microcontroller and Embedded Systems",
+            3,
+            true
+        ],
+        [
+            "Environment Studies",
+            2,
+            true
+        ],
+        [
+            "Kannada",
+            1,
+            true
+        ],
+        [
+            "Universal Human Values",
+            1,
+            true
+        ],
+        [
+            "Design Analysis of Algorithms Lab",
+            1,
+            true
+        ],
+        [
+            "OOC using Java Programming Lab",
+            1,
+            true
+        ],
+        [
+            "Microcontroller and Embedded Systems Lab",
+            1,
+            true
+        ]
+    ],
+    "ise5": [
+        [
+            "Management and Entreprneurship",
+            3,
+            true
+        ],
+        [
+            "Cyber and Intellectual property",
+            1,
+            true
+        ],
+        [
+            "Internship",
+            3,
+            false
+        ],
+        [
+            "Professional Elective I",
+            3,
+            true
+        ],
+        [
+            "Database Management Systems",
+            3,
+            true
+        ],
+        [
+            "Operating systems",
+            3,
+            true
+        ],
+        [
+            "Data Communication and Networks",
+            3,
+            true
+        ],
+        [
+            "Database Management Systems Lab",
+            1,
+            true
+        ],
+        [
+            "Operating Systems lab",
+            1,
+            true
+        ],
+        [
+            "Data Communication and Networks Lab",
+            1,
+            true
+        ]
+    ],
+    "ise6": [
+        [
+            "Project and Finance Management",
+            2,
+            true
+        ],
+        [
+            "Bio Informatics",
+            1,
+            true
+        ],
+        [
+            "Green IT and Sustainability",
+            1,
+            true
+        ],
+        [
+            "Professional Elective II",
+            3,
+            true
+        ],
+        [
+            "Open Elective I",
+            3,
+            true
+        ],
+        [
+            "Mini Project",
+            2,
+            true
+        ],
+        [
+            "Machine Learning",
+            3,
+            true
+        ],
+        [
+            "Cloud computing",
+            3,
+            true
+        ],
+        [
+            "Mobile Application Development Laboratory",
+            1,
+            true
+        ],
+        [
+            "Cloud Computing Laboratory",
+            1,
+            true
+        ],
+        [
+            "Machine learning laboratory",
+            1,
+            true
+        ]
+    ],
+    "ise7": [
+        [
+            "Research Methodolody",
+            2,
+            true
+        ],
+        [
+            "DevOps",
+            1,
+            true
+        ],
+        [
+            "Professional Elective III",
+            3,
+            true
+        ],
+        [
+            "Professional Elective IV",
+            3,
+            true
+        ],
+        [
+            "Open Elective II",
+            3,
+            true
+        ],
+        [
+            "Project Work Phase I",
+            5,
+            false
+        ]
+    ],
+    "ise8": [
+        [
+            "Project Work Phase II",
+            10,
+            false
+        ],
+        [
+            "Internship",
+            7,
+            false
+        ],
+        [
+            "NPTEL Course",
+            3,
+            false
+        ]
+    ]
+}
